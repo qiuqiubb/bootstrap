@@ -25,6 +25,7 @@ const CLASS_NAME_SHOW = 'show'
 
 /**
  * Class definition
+ * .。。。。。。。。。。。。。。。。。。。。。。。
  */
 
 class Alert extends BaseComponent {
